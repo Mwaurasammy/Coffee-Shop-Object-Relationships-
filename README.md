@@ -51,4 +51,4 @@ To run the tests, use the following command inside the virtual environment:
 ```bash
 pytest
 
---Happy coding! 😄✨
+## Happy coding! 😄✨
